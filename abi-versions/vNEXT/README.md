@@ -321,7 +321,7 @@ Called when the response to the HTTP call (`callout_id`) is received.
 * params:
   - `i32 (uint32_t) context_id`
   - `i32 (uint32_t) callout_id`
-  - `i32 (size_t) num_elemets`
+  - `i32 (size_t) num_elements`
 * returns:
   - none
 
